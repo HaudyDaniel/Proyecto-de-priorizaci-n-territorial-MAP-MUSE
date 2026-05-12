@@ -2,9 +2,9 @@
 
 ## Análisis espacial y territorial de accidentes por MAP/MUSE en Colombia
 
-Este proyecto analiza la distribución espacial y territorial de accidentes por **Minas Antipersonal (MAP)** y **Municiones sin Explosionar (MUSE)** en Colombia, usando técnicas de análisis exploratorio, estimación de densidad espacial, reducción de dimensionalidad, agrupamiento no supervisado y clasificación supervisada.
+Este proyecto analiza la distribución espacial y territorial de accidentes por **Minas Antipersonal (MAP)** y **Municiones sin Explosionar (MUSE)** en Colombia. En este ejercicio se aplican técnicas de análisis exploratorio, estimación de densidad espacial (Modelo KDE), agrupamiento no supervisado (PCA + K-means) y clasificación supervisada (Random Forest) para caracterizar la distribución territorial de los accidentes y agrupar municipios según distintas variables normalizadas de afectación.
 
-El objetivo principal es identificar patrones de afectación y construir una lectura de priorización municipal basada en variables históricas, recientes y territoriales.
+La base utilizada contiene **7.474 registros** con información sobre tipo de evento, departamento, municipio, año, mes, coordenadas geográficas y tipo de área. Además, cubre eventos entre 1990 y 2026, con registros distribuidos en 32 departamentos y 501 municipios. A partir de esta información, el análisis se orienta a responder tres preguntas centrales: ¿en qué territorios se concentran los accidentes por MAP/MUSE?, ¿qué patrones espaciales pueden identificarse mediante estimación de densidad?, y ¿qué grupos de municipios presentan perfiles similares de afectación? Con ello, se espera aportar una lectura técnica que contribuya a la priorización territorial, la prevención del riesgo y la toma de decisiones basada en evidencia en contextos humanitarios.
 
 ---
 
