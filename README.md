@@ -1,5 +1,3 @@
-# Proyecto de priorización territorial MAP/MUSE
-
 ## Análisis espacial y territorial de accidentes por MAP/MUSE en Colombia
 
 Este proyecto analiza la distribución espacial y territorial de accidentes por **Minas Antipersonal (MAP)** y **Municiones sin Explosionar (MUSE)** en Colombia. En este ejercicio se aplican técnicas de análisis exploratorio, estimación de densidad espacial (Modelo KDE), agrupamiento no supervisado (PCA + K-means) y clasificación supervisada (Random Forest) para caracterizar la distribución territorial de los accidentes y agrupar municipios según distintas variables normalizadas de afectación.
