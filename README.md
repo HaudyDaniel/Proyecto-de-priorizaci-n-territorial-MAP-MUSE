@@ -93,6 +93,8 @@ El proyecto integra los siguientes métodos:
 
 El proyecto también incluye un mapa interactivo desarrollado con `Folium`, que permite acercar, alejar y consultar información municipal por punto.
 
+![Mapa Interactivo](img/Mapa_Interactivo.png)
+
 Archivo sugerido:
 
 ```text
